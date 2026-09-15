@@ -51,9 +51,6 @@ This project transforms raw transactional data into actionable financial insight
 
 ## 🖼 Dashboard Preview
 
-> *(Include a screenshot of your dashboard here)*
-> `![Dashboard Screenshot](path/to/your/screenshot.png)`
-
 ---
 
 ## 🚀 How to Run / View
